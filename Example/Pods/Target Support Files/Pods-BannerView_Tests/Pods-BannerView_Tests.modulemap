@@ -1,0 +1,6 @@
+framework module Pods_BannerView_Tests {
+  umbrella header "Pods-BannerView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module BannerView {
+  umbrella header "BannerView-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "BannerView",
+  "version": "0.1.0",
+  "summary": "A short description of BannerView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/jamalping/BannerView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jamalping": "420436097@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/jamalping/BannerView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BannerView/Classes/**/*"
+}

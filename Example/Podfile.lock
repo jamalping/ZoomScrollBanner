@@ -1,0 +1,16 @@
+PODS:
+  - BannerView (0.1.0)
+
+DEPENDENCIES:
+  - BannerView (from `../`)
+
+EXTERNAL SOURCES:
+  BannerView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BannerView: 1043764d9cd457d96dc988ba0e49207c4db66e9b
+
+PODFILE CHECKSUM: add835b54c5957c7fe99a9c7e2986789785bae77
+
+COCOAPODS: 1.5.3
