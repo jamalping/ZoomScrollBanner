@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import BannerView
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        let banaView = BannerView.init(frame: self.view.bounds)
+        self.view.addSubview(banaView)
     }
 
     override func didReceiveMemoryWarning() {
